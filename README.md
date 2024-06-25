@@ -15,8 +15,8 @@ LiveLinkATC is a companion application for Microsoft Flight Simulator that enhan
 ## Installation
 
 1. **Install VLC Player**: VLC Player is required for audio playback. You can download VLC Player from [here](https://www.videolan.org/vlc/).
-2. **Download LiveLinkATC**: Download the `LiveLinkATC.exe` file from the [GitHub releases page](https://github.com/LiveLinkATC/LiveLinkATC/releases).
-3. **Run LiveLinkATC**: Execute the `LiveLinkATC.exe` file to start the application.
+2. **Download LiveLinkATC**: Download the `LiveLinkATC_beta.exe` file from the [GitHub releases page](https://github.com/LiveLinkATC/LiveLinkATC/releases).
+3. **Run LiveLinkATC**: Execute the `LiveLinkATC_beta.exe` file to start the application.
 
 ## Usage
 
