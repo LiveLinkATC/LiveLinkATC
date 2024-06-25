@@ -2,6 +2,8 @@
 
 LiveLinkATC is a companion application for Microsoft Flight Simulator that enhances your flight simulation experience by providing live air traffic control (ATC) audio from the nearest airport to your in-simulator location. This application is designed to work seamlessly with popular simulation networks and tools such as VATSIM, SayIntentions.ai, and PilotEdge, muting the live ATC audio when these applications transmit audio.
 
+![LiveLinkATC Screenshot](screenshot.png)
+
 ## Features
 
 - **Live ATC Audio**: Stream live ATC audio based on your airplane's location in Microsoft Flight Simulator.
