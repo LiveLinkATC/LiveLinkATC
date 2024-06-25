@@ -21,7 +21,7 @@ LiveLinkATC is a companion application for Microsoft Flight Simulator that enhan
 ## Usage
 
 1. **Launch Microsoft Flight Simulator** and start your flight.
-2. **Run LiveLinkATC.exe** to start streaming live ATC audio.
+2. **Run LiveLinkATC_beta.exe** to start streaming live ATC audio.
 Note: If using **SayIntentions.ai, VATSIM, or PilotEdge**, ensure these applications are running first before launching LiveLinkATC. LiveLinkATC will automatically mute live ATC audio when audio is received from these applications.
 
 ## Donations
